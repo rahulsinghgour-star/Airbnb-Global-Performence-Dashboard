@@ -159,6 +159,6 @@ calculations, and the business questions explored in this project.
 
 ------------------------------------------------------------------------
 
-**Created by:** \[Rahul Singh Gour\]\
-**LinkedIn:** \[https://www.linkdin.com/in/rahulsinghgour\]\
-**GitHub:** \[https://github.com/rahulsinghgour-star\]
+**Created by:** Rahul Singh Gour  
+**LinkedIn:** [Rahul Singh Gour](https://www.linkedin.com/in/rahulsinghgour?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+**GitHub:** [rahulsinghgour-star](https://github.com/rahulsinghgour-star)
